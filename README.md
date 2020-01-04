@@ -7,3 +7,5 @@
 3. Times_call: Call function with args; return the time in seconds and result. Then, call fn(*args) repeatedly: n times if n is an int, or up to n seconds if n is a float; return the min, avg, and max time
 
 4. Wrapper and Decorator: update_wrapper() and @decorator and countcalls()來計算function calls
+
+5. Regular expression (simple): Return True if pattern appears at the start of text
